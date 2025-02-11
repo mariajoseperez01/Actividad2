@@ -4,7 +4,6 @@ Este proyecto tiene como objetivo analizar los espacios vectoriales complejos, s
 
 ## Comenzando
 
-Estas instrucciones te permitirán obtener una copia del proyecto y ejecutarlo en tu máquina local para desarrollo y pruebas.
 
 ### Requisitos Previos
 
