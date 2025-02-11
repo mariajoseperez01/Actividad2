@@ -1,12 +1,12 @@
-# Project Title
+# Espacios Vectoriales Complejos
 
-One Paragraph of project description goes here
+Este proyecto tiene como objetivo analizar los espacios vectoriales complejos, su estructura, propiedades y aplicaciones en diversas áreas de la matemática y la física. Se presentan conceptos fundamentales como la base, la dimensión, los subespacios y la transformación lineal en estos espacios, proporcionando herramientas para su comprensión y aplicación en problemas reales.
 
-## Getting Started
+## Comenzando
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instrucciones te permitirán obtener una copia del proyecto y ejecutarlo en tu máquina local para desarrollo y pruebas.
 
-### Prerequisites
+### Requisitos Previos
 
 What things you need to install the software and how to install them
 
